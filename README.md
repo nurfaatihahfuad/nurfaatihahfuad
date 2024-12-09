@@ -39,6 +39,3 @@ I've been learning to code for about 2 years , I started with Java , and I'm cur
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/nurfaatihahfuad/nurfaatihahfuad.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfaatihahfuad&repo=nurfaatihahfuad.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/nurfaatihahfuad/nurfaatihahfuad" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfaatihahfuad&repo=nurfaatihahfuad&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-
