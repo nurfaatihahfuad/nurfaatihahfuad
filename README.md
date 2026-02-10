@@ -49,14 +49,10 @@ https://www.linkedin.com/in/nur-faatihah-mohamad-fuad-a58b7b320/
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nurfaatihahfuad&show_icons=true&hide_border=true&theme=github_dark" height="165">
 
 <img src="https://streak-stats.demolab.com?user=nurfaatihahfuad&theme=github-dark&hide_border=true" height="165">
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurfaatihahfuad&layout=compact&hide_border=true&theme=github_dark">
-</p>
 
 ---
 
