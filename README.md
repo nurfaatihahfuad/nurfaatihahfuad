@@ -62,8 +62,8 @@ https://www.linkedin.com/in/nur-faatihah-mohamad-fuad-a58b7b320/
 
 ## 📌 Featured Projects
 
-<li>[Student Management System](https://github.com/nurfaatihahfuad/SMS-SYSTEM)</li>
-<li>[Hasta Vehicle Booking System](https://github.com/nurfaatihahfuad/HASTA-TRAVEL-AND-TOURS-PROJECT)</li>
+🔹️[Student Management System](https://github.com/nurfaatihahfuad/SMS-SYSTEM)
+<br>🔹️[Hasta Vehicle Booking System](https://github.com/nurfaatihahfuad/HASTA-TRAVEL-AND-TOURS-PROJECT)
 
 ---
 
