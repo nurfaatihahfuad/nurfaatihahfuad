@@ -1,25 +1,20 @@
 <h1 align="center">Hi 👋 I'm Nur Faatihah Mohamad Fuad</h1>
+<h3 align="center">Computer Science (Data Engineering) Student | UTM</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Engineering+Enthusiast;C%2B%2B+Learner;Future+Software+Engineer&center=true&width=500&height=45">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nurfaatihahfuad&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👩‍🎓 About Me
 
-🎓 Bachelor of Computer Science (Data Engineering) with Honours  
-📍 Universiti Teknologi Malaysia  
-💻 Coding journey: ~2 years  
-☕ Started with Java, currently focused on C++  
-🌏 Based in Malaysia  
-🤝 Open for collaborations & internships  
-
-I enjoy building practical systems and continuously improving my programming and software design skills.
+- 🎓 Bachelor of Computer Science (Data Engineering) with Honours — UTM
+- 💻 Coding experience: ~2 years
+- ☕ Started with Java, currently focusing on **C++**
+- 🌏 Based in Malaysia
+- 🤝 Open to internships & collaborations
+- 🧠 Interested in Software Development & Data Engineering
 
 ---
 
@@ -54,12 +49,13 @@ https://www.linkedin.com/in/nur-faatihah-mohamad-fuad-a58b7b320/
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurfaatihahfuad&show_icons=true&hide_border=true&theme=github_dark" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurfaatihahfuad&hide_border=true&theme=github-dark" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=nurfaatihahfuad&show_icons=true&hide_border=true&theme=github_dark" height="165">
+
+<img src="https://streak-stats.demolab.com?user=nurfaatihahfuad&theme=github-dark&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurfaatihahfuad&layout=compact&hide_border=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurfaatihahfuad&layout=compact&hide_border=true&theme=github_dark">
 </p>
 
 ---
@@ -89,4 +85,4 @@ https://www.linkedin.com/in/nur-faatihah-mohamad-fuad-a58b7b320/
 
 ---
 
-⭐ *Always learning, building, and improving.*
+⭐ Always learning, building, and improving.
