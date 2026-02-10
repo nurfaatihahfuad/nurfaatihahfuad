@@ -63,14 +63,23 @@ https://www.linkedin.com/in/nur-faatihah-mohamad-fuad-a58b7b320/
 ## 📌 Featured Projects
 
 <p align="center">
+
+<a href="https://github.com/nurfaatihahfuad/SMS-SYSTEM">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfaatihahfuad&repo=SMS-SYSTEM&theme=github_dark&hide_border=true">
+</a>
+
 <a href="https://github.com/nurfaatihahfuad/nurfaatihahfuad.github.io">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfaatihahfuad&repo=nurfaatihahfuad.github.io&theme=github_dark&hide_border=true">
 </a>
 
-<a href="https://github.com/nurfaatihahfuad/nurfaatihahfuad">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nurfaatihahfuad&repo=nurfaatihahfuad&theme=github_dark&hide_border=true">
-</a>
 </p>
+
+---
+
+## 🐍 Contribution Visualization
+
+Contribution graph animation project:  
+[Platane/snk GitHub Repository](https://github.com/Platane/snk)
 
 ---
 
