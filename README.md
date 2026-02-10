@@ -1,53 +1,65 @@
-<h1 align="center">Hi 👋, I'm Nur Faatihah Mohamad Fuad</h1>
-<h3 align="center">Computer Science (Data Engineering) Student | Universiti Teknologi Malaysia</h3>
+<h1 align="center">Hi 👋 I'm Nur Faatihah Mohamad Fuad</h1>
 
 <p align="center">
-Passionate about building practical software solutions and continuously improving my programming skills.
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Engineering+Enthusiast;C%2B%2B+Learner;Future+Software+Engineer&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nurfaatihahfuad&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👩‍🎓 About Me
 
-- 🎓 Bachelor of Computer Science (Data Engineering) with Honours — UTM
-- 💻 Coding experience: ~2 years
-- ☕ Started with Java, currently focusing on **C++**
-- 🌏 Based in Malaysia
-- 🤝 Open to collaboration and learning opportunities
-- 🧠 Interested in software development, data engineering & system design
+🎓 Bachelor of Computer Science (Data Engineering) with Honours  
+📍 Universiti Teknologi Malaysia  
+💻 Coding journey: ~2 years  
+☕ Started with Java, currently focused on C++  
+🌏 Based in Malaysia  
+🤝 Open for collaborations & internships  
+
+I enjoy building practical systems and continuously improving my programming and software design skills.
 
 ---
 
 ## 🌐 Portfolio & Contact
 
-- 🖥 Portfolio: [Faatihah's Portfolio](http://nurfaatihahfuad.github.io/)
-- 📧 Email: faatihahfuad99@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nur-faatihah-mohamad-fuad-a58b7b320/
+🌍 Portfolio:  
+🔗 http://nurfaatihahfuad.github.io/
+
+📧 Email:  
+faatihahfuad99@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/nur-faatihah-mohamad-fuad-a58b7b320/
 
 ---
 
-## 🚀 Skills & Tools
+## 🚀 Tech Stack
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" alt="Google Cloud"/>
-</p>
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
-**Programming:** C++, Java, Python  
-**Tools & Platforms:** Git, GitHub, Figma, Google Cloud  
-**Currently Learning:** Advanced C++, Software Design, Data Engineering concepts
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-blue?style=for-the-badge&logo=googlecloud)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nurfaatihahfuad&show_icons=true&hide_border=true&theme=github_dark" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurfaatihahfuad&hide_border=true&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nurfaatihahfuad&show_icons=true&hide_border=true&theme=github_dark" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nurfaatihahfuad&hide_border=true&theme=github-dark" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurfaatihahfuad&layout=compact&hide_border=true&theme=github_dark">
 </p>
 
 ---
@@ -77,4 +89,4 @@ Passionate about building practical software solutions and continuously improvin
 
 ---
 
-⭐️ *Always learning, building, and improving.*
+⭐ *Always learning, building, and improving.*
