@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science (Data Engineering) Student | UTM</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Engineering+Enthusiast;C%2B%2B+Learner;Future+Software+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Data+Engineering+Enthusiast;C%2B%2B+Learner;Future+Data+Engineer&center=true&width=500&height=45">
 </p>
 
 ---
